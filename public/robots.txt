@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://smartoto.ma/sitemap.xml
+
+# Optimized for search engines
+Crawl-delay: 1
+
+# Block admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow important pages
+Allow: /
+Allow: /protection-ppf
+Allow: /nano-ceramique
+Allow: /carrosserie
+Allow: /peinture
+Allow: /mecanique-diagnostic
+Allow: /nos-abonnements
+Allow: /realisations
+Allow: /videos
+Allow: /acces-contact
